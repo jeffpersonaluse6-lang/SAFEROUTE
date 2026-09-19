@@ -1,4 +1,4 @@
-# SafeRoute - Campus Evacuation Navigator
+# SafeRoute
 
 ## Download
 
